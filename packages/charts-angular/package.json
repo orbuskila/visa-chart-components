@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "@angular/common": "^17.3.10",
-    "@angular/core": "^17.3.10",
+    "@angular/core": "^19.2.18",
     "@visa/charts": "^8.0.1",
     "@visa/charts-types": "^0.6.5",
     "rxjs": "^7.8.1",
