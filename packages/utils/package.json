@@ -39,7 +39,7 @@
     "deep-keys": "^0.5.0",
     "i18next": "23.5.1",
     "vega-canvas": "1.2.6",
-    "yup": "^0.30.0"
+    "yup": "^0.32.11"
   },
   "devDependencies": {
     "@types/node": "^11.13.5",
